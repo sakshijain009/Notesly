@@ -7,4 +7,5 @@ Then to run the project:<br>
 ```
 npm start
 ```
-<img src = "">
+Demonstration of how the app looks <br>
+<img src = "image.png">
