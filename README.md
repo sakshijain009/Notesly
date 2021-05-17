@@ -7,5 +7,5 @@ The above command installs all dependencies. Then to run the project:<br>
 ```
 npm start
 ```
-### Demonstration of how the app looks <br>
+### Demonstration of how the app looks 🌟 <br>
 <img src = "image.png">
