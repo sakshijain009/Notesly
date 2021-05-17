@@ -3,9 +3,9 @@ Keep your notes easily with Notesly. This is a React based app. To run the proje
 ```
 npm install
 ```
-Then to run the project:<br>
+The above command installs all dependencies. Then to run the project:<br>
 ```
 npm start
 ```
-Demonstration of how the app looks <br>
+### Demonstration of how the app looks <br>
 <img src = "image.png">
